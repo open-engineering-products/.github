@@ -1,7 +1,7 @@
 # Open Engineering Products
 
 <p align="center">
-  <img src="./hero-banner.png" alt="Open Engineering Products" width="100%" />
+  <img src="../assets/hero-banner.png" alt="Open Engineering Products" width="100%" />
 </p>
 
 <p align="center">
